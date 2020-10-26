@@ -1,0 +1,4 @@
+/.output
+/perfbuf-output
+/ringbuf-output
+/ringbuf-reserve-submit
